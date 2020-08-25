@@ -1,0 +1,4 @@
+people = Hash.new
+people[:nickname] = 'IndianGuru'
+people[:language] = 'Marathi'
+people[:lastname] = 'Talim'
